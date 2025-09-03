@@ -1,0 +1,141 @@
+[
+  {
+    "name": "Markers",
+    "origin": "Dead Space (2008)",
+    "threat": "Universal",
+    "type": "Construct",
+    "behaviour": "Control and mutate organic matter remotely.",
+    "description": [
+      "Markers are alien constructs that emit a signal which turns dead matter into necromorphs.",
+      "Necromorphs will kill more organisms, creating more necromorphs, until they all merge into a massive Brethren Moon, which will produce and distribute more markers into space to repeat the cycle.",
+      "If a marker was placed on Earth, it would need to be discovered and destroyed quickly, otherwise the entire planet would fall victim."
+    ],
+    "images": ["assets/img/marker.webp", "assets/img/necromorph.webp"]
+  },
+  {
+    "name": "Xenomorphs",
+    "origin": "Alien (1979)",
+    "threat": "Continental",
+    "type": "Predator (bioweapon)",
+    "behaviour": "Hunt and parasitise lifeforms to reproduce.",
+    "description": [
+      "Xenomorphs are bioweapons that reproduce by implanting a serum in living beings, forcing the host's body to produce a xenomorph embryo in the place of an organ.",
+      "They are difficult to eliminate due to their ability to steal host DNA, high adaptability, instinct to build hives, and extremely corrosive blood.",
+      "If a xenomorph nested on Earth, it would take intensive military force to eradicate them, but not before they used human-like intelligence to spread across large areas."
+    ],
+    "images": ["assets/img/xenomorph.webp", "assets/img/xeno_hive.webp"]
+  },
+  {
+    "name": "Alien Thing",
+    "origin": "The Thing (1982)",
+    "threat": "Planetary-Universal",
+    "type": "Pathogen (natural)",
+    "behaviour": "Infect and replace lifeforms with mimic replicas.",
+    "description": [
+      "The Thing is a pathogen that replaces every cell of its host with alien copies, retaining their knowledge as it does so.",
+      "The Thing's ability to blend in, shape-shift, and survive as dismembered fragments makes it nearly impossible to eradicate.",
+      "If The Thing managed to invade a warm climate of Earth, the entire planet would become infected, and it might use human knowledge to colonise other worlds."
+    ],
+    "images": ["assets/img/thing_microscope.png", "assets/img/thing_head.gif"]
+  },
+  {
+    "name": "Calvin",
+    "origin": "Life (2017)",
+    "threat": "Continental-Planetary",
+    "type": "Predator (natural)",
+    "behaviour": "Hunt and consume lifeforms, rapidly adapt and grow.",
+    "description": [
+      "Calvin is the name given to a microscopic life-form discovered frozen on Mars, which when awakened and fed, quickly grew to kill and consume the people who discovered it.",
+      "Each cell of Calvin's body is a resilient muscle, brain, and eye, allowing it to change shape, over-power people with ease, grow smarter with mass, and potentially split into more individuals.",
+      "If Calvin were to be released on Earth, it could spread to consume large populations, and potentially the entire planet if no weakness is found."
+    ],
+    "images": ["assets/img/calvin_small.png", "assets/img/calvin_big.webp"]
+  },
+  {
+    "name": "The Flood",
+    "origin": "Halo (2001)",
+    "threat": "Universal",
+    "type": "Pathogen (bioweapon)",
+    "behaviour": "Assimilate and repurpose lifeforms.",
+    "description": [
+      "The Flood is the ultimate biological weapon, designed by a powerful alien race as mutually assured destruction before their defeat in a galactic war.",
+      "A single flood spore can conquer a whole planet, turning all life into flood forms, and combining their knowledge into a hive-mind, which the flood could use to travel space and attack other worlds.",
+      "If the flood invaded Earth, it wouldn't take long for the planet to become one big flood factory, which would then attempt to spread even further throughout the cosmos."
+    ],
+    "images": [
+      "assets/img/flood_infection.webp",
+      "assets/img/flood_combat.webp"
+    ]
+  },
+  {
+    "name": "The Combine",
+    "origin": "Half-Life 2 (2004)",
+    "threat": "Universal",
+    "type": "Empire",
+    "behaviour": "Assimilate worlds into one great empire.",
+    "description": [
+      "An interdimensional empire composed of life-forms and technology from thousands of worlds throughout the multiverse.",
+      "The Combine are able to quickly over-power and enslave advanced civilizations, stealing their resources and knowledge, and transforming inhabitants into loyal cyborg units.",
+      "When the Combine discovered Earth, it only took 7 hours before humanity was forced to surrender, also known as the Seven Hour War."
+    ],
+    "images": [
+      "assets/img/combine_citadel.webp",
+      "assets/img/combine_synths.webp"
+    ]
+  },
+  {
+    "name": "The Flesh That Hates (SCP-610)",
+    "origin": "SCP-610 article (2012)",
+    "threat": "Continental-Planetary",
+    "type": "Pathogen (bioweapon)",
+    "behaviour": "Infect and mutate lifeforms.",
+    "description": [
+      "A supernatural skin disease created by a flesh-oriented cult, SCP-610 infects via touch and particles, quickly spreading across the skin of its host as a red flesh.",
+      "Affected hosts will cease all life functions and begin to mutate rapidly, before suddenly reanimating, showing social behaviour with other 610 instances, and attacking anyone who isn't infected.",
+      "Thanks to the SCP Foundation and its knowledge of the supernatural, SCP-610 is currently contained within a single region, but it only requires a small slip-up for the disease to spread into new regions."
+    ],
+    "images": ["assets/img/610_mountain.jpg", "assets/img/610_table.webp"]
+  },
+  {
+    "name": "Splinter Fungus",
+    "origin": "Splinter (2008)",
+    "threat": "Continental",
+    "type": "Pathogen (natural)",
+    "behaviour": "Reanimate dead matter to infect and kill lifeforms.",
+    "description": [
+      "A mysterious black liquid, which when injected into a living host, begins to take control of the body and grow dark needles to inject the liquid into new hosts.",
+      "Every part of an infected body is alive, even the liquid itself, and able to move on its own, targeting body-heat.",
+      "The infection would be devastating and difficult to control, but given that it's easy to spot, purely driven on instinct, and not airborne, it is possible to contain and eventually expunge it using tactical planning and incineration."
+    ],
+    "images": [
+      "assets/img/splinter_infected.jpg",
+      "assets/img/splinter_hand.gif"
+    ]
+  },
+  {
+    "name": "Martians",
+    "origin": "War Of The Worlds (2005)",
+    "threat": "Planetary",
+    "type": "Empire",
+    "behaviour": "Invade worlds and harvest inhabitants.",
+    "description": [
+      "It is uncertain if these aliens are truly from the red planet of Mars, but their desire for red blood is very clear.",
+      "Teleporting down to Earth through unnatural lightning, these aliens steer giant three-legged machines equipped with protective force-fields, dangerous heat-rays, and tools for harvesting blood.",
+      "Their technology is nearly impossible to counter, but luckily the mysterious aliens appear to have become ignorant or desperate, making serious mistakes that lead to their own doom before Earth is fully annihilated."
+    ],
+    "images": ["assets/img/tripod.webp", "assets/img/tripods_hill.gif"]
+  },
+  {
+    "name": "The DomZ",
+    "origin": "Beyond Good And Evil (2003)",
+    "threat": "Planetary-Universal",
+    "type": "Empire",
+    "behaviour": "Infiltrate, manipulate, and harvest worlds.",
+    "description": [
+      "The DomZ are mysterious power-parasites who secretly take control of human space colonies and slowly harvest the inhabitants, all while searching for Shauni, their lost source of power.",
+      "They infiltrate and take over governments using mind-controlling parasites, then have the armies fight staged DomZ attacks, while secretly abducting the population to drain them of life.",
+      "The DomZ in their weakened state are a planetary threat, but should they obtain Shauni, they might be able to expand infinitely."
+    ],
+    "images": ["assets/img/domz.jpg", "assets/img/domz_priest.webp"]
+  }
+]
