@@ -4,7 +4,7 @@ const wiki_page = document.querySelector(".wiki_page");
 //
 async function FetchData() {
   try {
-    const response = await fetch("../entries.json");
+    const response = await fetch("assets/data/entries.json");
     const data = await response.json();
     return data;
   } catch (error) {
