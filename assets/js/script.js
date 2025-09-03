@@ -1,6 +1,6 @@
 const invaders_list = document.querySelector(".invaders_list");
 const wiki_page = document.querySelector(".wiki_page");
-
+console.log("Hello!");
 //
 async function FetchData() {
   try {
@@ -13,6 +13,8 @@ async function FetchData() {
 }
 const data = await FetchData();
 //
+
+console.log(data);
 
 const SmallTemplate = (key) =>
   `
