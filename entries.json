@@ -10,7 +10,7 @@
       "Necromorphs will kill more organisms, creating more necromorphs, until they all merge into a massive Brethren Moon, which will produce and distribute more markers into space to repeat the cycle.",
       "If a marker was placed on Earth, it would need to be discovered and destroyed quickly, otherwise the entire planet would fall victim."
     ],
-    "images": ["assets/img/marker.webp", "assets/img/necromorph.webp"]
+    "images": ["marker.webp", "necromorph.webp"]
   },
   {
     "name": "Xenomorphs",
@@ -23,7 +23,7 @@
       "They are difficult to eliminate due to their ability to steal host DNA, high adaptability, instinct to build hives, and extremely corrosive blood.",
       "If a xenomorph nested on Earth, it would take intensive military force to eradicate them, but not before they used human-like intelligence to spread across large areas."
     ],
-    "images": ["assets/img/xenomorph.webp", "assets/img/xeno_hive.webp"]
+    "images": ["xenomorph.webp", "xeno_hive.webp"]
   },
   {
     "name": "Alien Thing",
@@ -36,7 +36,7 @@
       "The Thing's ability to blend in, shape-shift, and survive as dismembered fragments makes it nearly impossible to eradicate.",
       "If The Thing managed to invade a warm climate of Earth, the entire planet would become infected, and it might use human knowledge to colonise other worlds."
     ],
-    "images": ["assets/img/thing_microscope.png", "assets/img/thing_head.gif"]
+    "images": ["thing_microscope.png", "thing_head.gif"]
   },
   {
     "name": "Calvin",
@@ -49,7 +49,7 @@
       "Each cell of Calvin's body is a resilient muscle, brain, and eye, allowing it to change shape, over-power people with ease, grow smarter with mass, and potentially split into more individuals.",
       "If Calvin were to be released on Earth, it could spread to consume large populations, and potentially the entire planet if no weakness is found."
     ],
-    "images": ["assets/img/calvin_small.png", "assets/img/calvin_big.webp"]
+    "images": ["calvin_small.png", "calvin_big.webp"]
   },
   {
     "name": "The Flood",
@@ -62,10 +62,7 @@
       "A single flood spore can conquer a whole planet, turning all life into flood forms, and combining their knowledge into a hive-mind, which the flood could use to travel space and attack other worlds.",
       "If the flood invaded Earth, it wouldn't take long for the planet to become one big flood factory, which would then attempt to spread even further throughout the cosmos."
     ],
-    "images": [
-      "assets/img/flood_infection.webp",
-      "assets/img/flood_combat.webp"
-    ]
+    "images": ["flood_infection.webp", "flood_combat.webp"]
   },
   {
     "name": "The Combine",
@@ -78,10 +75,7 @@
       "The Combine are able to quickly over-power and enslave advanced civilizations, stealing their resources and knowledge, and transforming inhabitants into loyal cyborg units.",
       "When the Combine discovered Earth, it only took 7 hours before humanity was forced to surrender, also known as the Seven Hour War."
     ],
-    "images": [
-      "assets/img/combine_citadel.webp",
-      "assets/img/combine_synths.webp"
-    ]
+    "images": ["combine_citadel.webp", "combine_synths.webp"]
   },
   {
     "name": "The Flesh That Hates (SCP-610)",
@@ -94,7 +88,7 @@
       "Affected hosts will cease all life functions and begin to mutate rapidly, before suddenly reanimating, showing social behaviour with other 610 instances, and attacking anyone who isn't infected.",
       "Thanks to the SCP Foundation and its knowledge of the supernatural, SCP-610 is currently contained within a single region, but it only requires a small slip-up for the disease to spread into new regions."
     ],
-    "images": ["assets/img/610_mountain.jpg", "assets/img/610_table.webp"]
+    "images": ["610_mountain.jpg", "610_table.webp"]
   },
   {
     "name": "Splinter Fungus",
@@ -107,10 +101,7 @@
       "Every part of an infected body is alive, even the liquid itself, and able to move on its own, targeting body-heat.",
       "The infection would be devastating and difficult to control, but given that it's easy to spot, purely driven on instinct, and not airborne, it is possible to contain and eventually expunge it using tactical planning and incineration."
     ],
-    "images": [
-      "assets/img/splinter_infected.jpg",
-      "assets/img/splinter_hand.gif"
-    ]
+    "images": ["splinter_infected.jpg", "splinter_hand.gif"]
   },
   {
     "name": "Martians",
@@ -123,7 +114,7 @@
       "Teleporting down to Earth through unnatural lightning, these aliens steer giant three-legged machines equipped with protective force-fields, dangerous heat-rays, and tools for harvesting blood.",
       "Their technology is nearly impossible to counter, but luckily the mysterious aliens appear to have become ignorant or desperate, making serious mistakes that lead to their own doom before Earth is fully annihilated."
     ],
-    "images": ["assets/img/tripod.webp", "assets/img/tripods_hill.gif"]
+    "images": ["tripod.webp", "tripods_hill.gif"]
   },
   {
     "name": "The DomZ",
@@ -136,6 +127,6 @@
       "They infiltrate and take over governments using mind-controlling parasites, then have the armies fight staged DomZ attacks, while secretly abducting the population to drain them of life.",
       "The DomZ in their weakened state are a planetary threat, but should they obtain Shauni, they might be able to expand infinitely."
     ],
-    "images": ["assets/img/domz.jpg", "assets/img/domz_priest.webp"]
+    "images": ["domz.jpg", "domz_priest.webp"]
   }
 ]
