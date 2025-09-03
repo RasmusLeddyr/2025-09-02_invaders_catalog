@@ -76,4 +76,6 @@ window.addEventListener("DOMContentLoaded", async () => {
     }
   }
   //
+
+  console.log("Data loaded:", data);
 });
